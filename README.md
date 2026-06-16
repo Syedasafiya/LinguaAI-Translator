@@ -63,14 +63,6 @@ LinguaAI-Translator/
 
 ---
 
-## 🎓 Internship
-
-**Organization:** CodeAlpha  
-**Internship:** Artificial Intelligence  
-**Task:** Task 1 — Language Translation Tool  
-
----
-
 ## 👩‍💻 Developer
 
 **Syeda Safiya**  
