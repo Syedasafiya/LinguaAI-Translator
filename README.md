@@ -1,0 +1,1 @@
+﻿# LinguaAI - Language Translator
