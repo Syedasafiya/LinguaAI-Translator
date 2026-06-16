@@ -17,5 +17,4 @@ python translator_app.py
 - deep-translator
 - gTTS + pygame
 
-## Internship
-CodeAlpha AI Internship — Task 1
+## project
